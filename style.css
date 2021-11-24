@@ -65,6 +65,12 @@ form {
   margin: auto;
 }
 
+input{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
 .ddg-logo {
   width: 25px;
   position: absolute;
